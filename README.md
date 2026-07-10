@@ -11,10 +11,3 @@ Autonomous execution module for high-precision task processing and system automa
 * **Isolated Environment:** Работа в автономном режиме.
 * **Custom Integration:** Легкая интеграция с пользовательскими скриптами `ftef`.
 
-## Quick Start / Быстрый старт
-Для инициализации модуля:
-
-```bash
-git clone [https://github.com/MrFtef/deeppeep](https://github.com/MrFtef/deeppeep)
-cd deeppeep
-python3 main.py --init
